@@ -1,0 +1,81 @@
+TEAM,PLAYER,NATIONALITY,TYPE,PRICE_PAID,NAMES
+Chennai Super Kings,Ajinkya Rahane,Indian,Batter,5000000,CSK
+Chennai Super Kings,Bhagath Varma,Indian,All-Rounder,2000000,CSK
+Chennai Super Kings,Kyle Jamieson,Overseas,Bowler,10000000,CSK
+Chennai Super Kings,Ajay Mandal,Indian,All-Rounder,2000000,CSK
+Chennai Super Kings,Nishant Sindhu,Indian,All-Rounder,6000000,CSK
+Chennai Super Kings,Shaik Rasheed,Indian,Batter,2000000,CSK
+Chennai Super Kings,Ben Stokes,Overseas,All-Rounder,162500000,CSK
+Delhi Capitals,Phil Salt,Overseas,Wicket-Keeper,20000000,DC
+Delhi Capitals,Ishant Sharma,Indian,Bowler,5000000,DC
+Delhi Capitals,Rilee Rossouw,Overseas,Batter,46000000,DC
+Delhi Capitals,Manish Pandey,Indian,Batter,24000000,DC
+Delhi Capitals,Mukesh Kumar,Indian,Bowler,55000000,DC
+Gujarat Titans,Shivam Mavi,Indian,Bowler,60000000,GT
+Gujarat Titans,K.S. Bharat,Indian,Wicket-Keeper,12000000,GT
+Gujarat Titans,Urvil Patel,Indian,Wicket-Keeper,2000000,GT
+Gujarat Titans,Mohit Sharma,Indian,Bowler,5000000,GT
+Gujarat Titans,Joshua Little,Overseas,Bowler,44000000,GT
+Gujarat Titans,Kane Williamson,Overseas,Batter,20000000,GT
+Gujarat Titans,Odean Smith,Overseas,All-Rounder,5000000,GT
+Kolkata Knight Riders,Kulwant Khejroliya,Indian,Bowler,2000000,KKR
+Kolkata Knight Riders,Shakib Al Hasan,Overseas,All-Rounder,15000000,KKR
+Kolkata Knight Riders,Vaibhav Arora,Indian,Bowler,6000000,KKR
+Kolkata Knight Riders,N. Jagadeesan,Indian,Wicket-Keeper,9000000,KKR
+Kolkata Knight Riders,David Wiese,Overseas,All-Rounder,10000000,KKR
+Kolkata Knight Riders,Mandeep Singh,Indian,Batter,5000000,KKR
+Kolkata Knight Riders,Litton Das,Overseas,Wicket-Keeper,5000000,KKR
+Kolkata Knight Riders,Suyash Sharma,Indian,Bowler,2000000,KKR
+Lucknow Super Giants,Amit Mishra,Indian,Bowler,5000000,LSG
+Lucknow Super Giants,Nicholas Pooran,Overseas,Wicket-Keeper,160000000,LSG
+Lucknow Super Giants,Romario Shepherd,Overseas,All-Rounder,5000000,LSG
+Lucknow Super Giants,Daniel Sams,Overseas,All-Rounder,7500000,LSG
+Lucknow Super Giants,Swapnil Singh,Indian,All-Rounder,2000000,LSG
+Lucknow Super Giants,Yudhvir Charak,Indian,All-Rounder,2000000,LSG
+Lucknow Super Giants,Prerak Mankad,Indian,All-Rounder,2000000,LSG
+Lucknow Super Giants,Yash Thakur,Indian,Bowler,4500000,LSG
+Lucknow Super Giants,Naveen Ul Haq,Overseas,Bowler,5000000,LSG
+Lucknow Super Giants,Jaydev Unadkat,Indian,Bowler,5000000,LSG
+Mumbai Indians,Jhye Richardson,Overseas,Bowler,15000000,MI
+Mumbai Indians,Nehal Wadhera,Indian,All-Rounder,2000000,MI
+Mumbai Indians,Raghav Goyal,Indian,Bowler,2000000,MI
+Mumbai Indians,Cameron Green,Overseas,All-Rounder,175000000,MI
+Mumbai Indians,Vishnu Vinod,Indian,Wicket-Keeper,2000000,MI
+Mumbai Indians,Duan Jansen,Overseas,All-Rounder,2000000,MI
+Mumbai Indians,Piyush Chawla,Indian,Bowler,5000000,MI
+Mumbai Indians,Shams Mulani,Indian,All-Rounder,2000000,MI
+Punjab Kings,Harpreet Bhatia,Indian,Batter,4000000,PBKS
+Punjab Kings,Shivam Singh,Indian,All-Rounder,2000000,PBKS
+Punjab Kings,Vidwath Kaverappa,Indian,Bowler,2000000,PBKS
+Punjab Kings,Mohit Rathee,Indian,All-Rounder,2000000,PBKS
+Punjab Kings,Sam Curran,Overseas,All-Rounder,185000000,PBKS
+Punjab Kings,Sikandar Raza,Overseas,All-Rounder,5000000,PBKS
+Rajasthan Royals,Jason Holder,Overseas,All-Rounder,57500000,RR
+Rajasthan Royals,Adam Zampa,Overseas,Bowler,15000000,RR
+Rajasthan Royals,Abdul P A,Indian,All-Rounder,2000000,RR
+Rajasthan Royals,Akash Vashisht,Indian,All-Rounder,2000000,RR
+Rajasthan Royals,Donovan Ferreira,Overseas,Wicket-Keeper,5000000,RR
+Rajasthan Royals,Kunal Rathore,Indian,Wicket-Keeper,2000000,RR
+Rajasthan Royals,Joe Root,Overseas,Batter,10000000,RR
+Rajasthan Royals,Murugan Ashwin,Indian,Bowler,2000000,RR
+Rajasthan Royals,K.M. Asif,Indian,Bowler,3000000,RR
+Royal Challengers Bangalore,Sonu Yadav,Indian,All-Rounder,2000000,RCB
+Royal Challengers Bangalore,Himanshu Sharma,Indian,Bowler,2000000,RCB
+Royal Challengers Bangalore,Avinash Singh,Indian,Bowler,6000000,RCB
+Royal Challengers Bangalore,Manoj Bhandage,Indian,All-Rounder,2000000,RCB
+Royal Challengers Bangalore,Will Jacks,Overseas,Batter,32000000,RCB
+Royal Challengers Bangalore,Reece Topley,Overseas,Bowler,19000000,RCB
+Royal Challengers Bangalore,Rajan Kumar,Indian,Bowler,7000000,RCB
+Sunrisers Hyderabad,Sanvir Singh,Indian,All-Rounder,2000000,SRH
+Sunrisers Hyderabad,Harry Brook,Overseas,Batter,132500000,SRH
+Sunrisers Hyderabad,Heinrich Klaasen,Overseas,Wicket-Keeper,52500000,SRH
+Sunrisers Hyderabad,Akeal Hosein,Overseas,Bowler,10000000,SRH
+Sunrisers Hyderabad,Mayank Markande,Indian,Bowler,5000000,SRH
+Sunrisers Hyderabad,Adil Rashid,Overseas,Bowler,20000000,SRH
+Sunrisers Hyderabad,Anmolpreet Singh,Indian,Batter,2000000,SRH
+Sunrisers Hyderabad,Vivrant Sharma,Indian,All-Rounder,26000000,SRH
+Sunrisers Hyderabad,Samarth Vyas,Indian,All-Rounder,2000000,SRH
+Sunrisers Hyderabad,Upendra Singh Yadav,Indian,Wicket-Keeper,2500000,SRH
+Sunrisers Hyderabad,Nitish Kumar Reddy,Indian,Wicket-Keeper,2000000,SRH
+Sunrisers Hyderabad,Mayank Agarwal,Indian,Batter,82500000,SRH
+Sunrisers Hyderabad,Mayank Dagar,Indian,All-Rounder,18000000,SRH
